@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DiseaseAwareness</string>
+    <string name="title_activity_coronary_heart_disease">CoronaryHeartDisease</string>
 </resources>

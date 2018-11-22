@@ -17,7 +17,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".About" />
-        <activity android:name=".SymptomsSearch"></activity>
+        <activity android:name=".SymptomsSearch" />
+        <activity
+            android:name=".CoronaryHeartDisease"
+            android:label="@string/title_activity_coronary_heart_disease" />
+        <activity android:name=".Stroke" />
+        <activity android:name=".Pneumonia" />
+        <activity android:name=".Diabetes"></activity>
     </application>
 
 </manifest>
