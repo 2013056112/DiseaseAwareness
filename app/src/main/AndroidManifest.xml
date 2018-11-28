@@ -24,7 +24,14 @@
         <activity android:name=".Stroke" />
         <activity android:name=".Pneumonia" />
         <activity android:name=".Diabetes" />
-        <activity android:name=".Tuberculosis"></activity>
+        <activity android:name=".Tuberculosis" />
+        <activity android:name=".Hypertension" />
+        <activity android:name=".BreastCancer" />
+        <activity
+            android:name=".Asthma"
+            android:label="@string/title_activity_asthma" />
+        <activity android:name=".Malaria" />
+        <activity android:name=".ChronicKidneyDisease"></activity>
     </application>
 
 </manifest>
