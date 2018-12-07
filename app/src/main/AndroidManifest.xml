@@ -31,7 +31,12 @@
             android:name=".Asthma"
             android:label="@string/title_activity_asthma" />
         <activity android:name=".Malaria" />
-        <activity android:name=".ChronicKidneyDisease"></activity>
+        <activity android:name=".ChronicKidneyDisease" />
+        <activity android:name=".Bronchitis" />
+        <activity android:name=".Influenza" />
+        <activity android:name=".Emphysema" />
+        <activity android:name=".LiverCancer" />
+        <activity android:name=".ProstateCancer"></activity>
     </application>
 
 </manifest>
